@@ -3307,7 +3307,7 @@ header.main-header .header-sticky.active{
 }
   /* Custom css */
   .navbar-brand img{
-	scale: 1.5;
+	width:279px;
  }
  /*  Ends */
 /************************************/
@@ -4549,7 +4549,7 @@ header.main-header .header-sticky.active{
 		font-size: 36px;
 	}
 	.navbar-brand img{
-		scale: 1;
+		width:235px;
 	}
 	.hero.bg-section{
 		background-position: none!important;
