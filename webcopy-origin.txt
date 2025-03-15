@@ -1118,7 +1118,7 @@ Uri: https://html.awaikenthemes.com/builtup/images/loader.svg
 File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\loader.svg
 Content Type: image/svg+xml
 
-Uri: https://html.awaikenthemes.com/builtup/images/logo.svg
+Uri: https://html.awaikenthemes.com/builtup/images/RTCC_1.png
 File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\logo.svg
 Content Type: image/svg+xml
 
