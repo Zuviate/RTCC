@@ -3305,7 +3305,11 @@ header.main-header .header-sticky.active{
 .error-page-content-heading h2 span{
 	color: var(--accent-color);
 }
- 
+  /* Custom css */
+  .navbar-brand img{
+	scale: 1.5;
+ }
+ /*  Ends */
 /************************************/
 /***     26. responsive css       ***/
 /************************************/
@@ -4543,5 +4547,11 @@ header.main-header .header-sticky.active{
 
 	.error-page-content-heading h2{
 		font-size: 36px;
+	}
+	.navbar-brand img{
+		scale: 1;
+	}
+	.hero.bg-section{
+		background-position: none!important;
 	}
 }
