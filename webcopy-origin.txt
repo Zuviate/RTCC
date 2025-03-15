@@ -1,0 +1,1436 @@
+Uri: https://demo.awaikenthemes.com/assets/js/theme-panel.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\assets\js\theme-panel.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Manrope:wght@200..800&display=swap
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat-7DW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat-7DW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat-JDG3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat-JDG3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat-JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat-JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat8gCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat8gCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat8JCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat8JCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat8JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat8JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat9uCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat9uCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat9XCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat9XCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat_XDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat_XDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat-7DW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat-7DW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat-JDG3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat-JDG3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat-JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat-JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat8gCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat8gCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat8JCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat8JCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat8JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat8JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat9uCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat9uCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat9XCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat9XCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat_XDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat_XDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat-7DW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat-7DW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat-JDG3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat-JDG3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat-JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat-JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat8gCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat8gCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat8JCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat8JCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat8JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat8JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat9uCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat9uCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat9XCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat9XCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat_XDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat_XDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat-7DW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat-7DW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat-JDG3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat-JDG3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat-JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat-JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat8gCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat8gCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat8JCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat8JCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat8JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat8JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat9uCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat9uCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat9XCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat9XCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat_XDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat_XDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat-7DW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat-7DW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat-JDG3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat-JDG3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat-JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat-JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat8gCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat8gCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat8JCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat8JCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat8JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat8JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat9uCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat9uCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat9XCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat9XCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat_XDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat_XDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat-7DW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat-7DW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat-JDG3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat-JDG3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat-JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat-JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat8gCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat8gCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat8JCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat8JCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat8JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat8JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat9uCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat9uCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat9XCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat9XCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat_XDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat_XDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat-7DW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat-7DW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat-JDG3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat-JDG3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat-JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat-JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat8gCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat8gCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat8JCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat8JCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat8JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat8JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat9uCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat9uCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat9XCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat9XCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat_XDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat_XDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat-7DW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat-7DW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat-JDG3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat-JDG3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat-JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat-JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat8gCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat8gCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat8JCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat8JCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat8JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat8JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat9uCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat9uCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat9XCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat9XCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat_XDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat_XDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat-7DW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat-7DW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat-JDG3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat-JDG3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat-JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat-JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat8gCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat8gCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat8JCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat8JCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat8JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat8JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat9uCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat9uCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat9XCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat9XCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat_XDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat_XDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat-7DW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat-7DW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat-JDG3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat-JDG3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat-JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat-JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat8gCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat8gCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat8JCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat8JCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat8JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat8JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat9uCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat9uCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat9XCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat9XCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat_XDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat_XDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-7DW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-7DW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDG3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDG3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8gCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8gCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9uCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9uCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9XCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9XCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat_XDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat_XDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat-7DW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat-7DW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat-JDG3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat-JDG3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat-JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat-JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat8gCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat8gCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat8JCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat8JCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat8JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat8JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat9uCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat9uCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat9XCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat9XCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat_XDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat_XDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAC5thTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAC5thTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAop1hTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAop1hTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAC5thTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAC5thTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAop1hTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAop1hTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAC5thTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAC5thTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAop1hTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAop1hTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAC5thTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAC5thTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAop1hTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAop1hTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAC5thTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAC5thTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAop1hTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAop1hTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAC5thTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAC5thTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAop1hTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAop1hTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAC5thTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAC5thTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAop1hTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAop1hTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAC5thTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAC5thTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAop1hTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAop1hTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAC5thTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAC5thTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAop1hTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAop1hTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAC5thTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAC5thTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAop1hTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAop1hTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAC5thTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAC5thTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAop1hTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAop1hTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAC5thTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAC5thTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAop1hTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAop1hTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v15/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4aE-_F.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\manrope\v15\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4aE-_F.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v15/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4jE-_F.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\manrope\v15\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4jE-_F.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v15/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59E-_F.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\manrope\v15\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59E-_F.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v15/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59FO_F.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\manrope\v15\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59FO_F.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v15/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk6jFO_F.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\manrope\v15\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk6jFO_F.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v15/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FO_F.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\manrope\v15\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FO_F.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v15/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk7PFO_F.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\s\manrope\v15\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk7PFO_F.ttf
+Content Type: font/ttf
+
+Uri: https://html.awaikenthemes.com/builtup/404.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\404.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/builtup/about.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\about.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/builtup/blog-single.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\blog-single.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/builtup/blog.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\blog.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/builtup/contact.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\contact.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/builtup/css/all.css
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\css\all.css
+Content Type: text/css
+
+Uri: https://html.awaikenthemes.com/builtup/css/animate.css
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\css\animate.css
+Content Type: text/css
+
+Uri: https://html.awaikenthemes.com/builtup/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://html.awaikenthemes.com/builtup/css/custom.css
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\css\custom.css
+Content Type: text/css
+
+Uri: https://html.awaikenthemes.com/builtup/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://html.awaikenthemes.com/builtup/css/mousecursor.css
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\css\mousecursor.css
+Content Type: text/css
+
+Uri: https://html.awaikenthemes.com/builtup/css/slicknav.min.css
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\css\slicknav.min.css
+Content Type: text/css
+
+Uri: https://html.awaikenthemes.com/builtup/css/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\css\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://html.awaikenthemes.com/builtup/faqs.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\faqs.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/builtup/images/404-error-img.png
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\404-error-img.png
+Content Type: image/png
+
+Uri: https://html.awaikenthemes.com/builtup/images/about-us-img.png
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\about-us-img.png
+Content Type: image/png
+
+Uri: https://html.awaikenthemes.com/builtup/images/arrow.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/builtup/images/author-1.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\author-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/builtup/images/author-2.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\author-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/builtup/images/author-3.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\author-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/builtup/images/author-4.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\author-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/builtup/images/company-history-img.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\company-history-img.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/builtup/images/contact-info-img.png
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\contact-info-img.png
+Content Type: image/png
+
+Uri: https://html.awaikenthemes.com/builtup/images/contact-us-bg.png
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\contact-us-bg.png
+Content Type: image/png
+
+Uri: https://html.awaikenthemes.com/builtup/images/cta-box-bg.png
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\cta-box-bg.png
+Content Type: image/png
+
+Uri: https://html.awaikenthemes.com/builtup/images/cta-box-img.png
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\cta-box-img.png
+Content Type: image/png
+
+Uri: https://html.awaikenthemes.com/builtup/images/favicon.png
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\favicon.png
+Content Type: image/png
+
+Uri: https://html.awaikenthemes.com/builtup/images/footer-logo.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\footer-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/builtup/images/hero-bg-2.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\hero-bg-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/builtup/images/hero-bg-video.mp4
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\hero-bg-video.mp4
+Content Type: video/mp4
+
+Uri: https://html.awaikenthemes.com/builtup/images/hero-bg.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\hero-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/builtup/images/icon-arrow-left.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\icon-arrow-left.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/builtup/images/icon-arrow-right.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\icon-arrow-right.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/builtup/images/icon-blockquote.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\icon-blockquote.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/builtup/images/icon-faq-bulitup.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\icon-faq-bulitup.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/builtup/images/icon-location.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\icon-location.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/builtup/images/icon-mail.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\icon-mail.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/builtup/images/icon-our-mission.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\icon-our-mission.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/builtup/images/icon-our-values.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\icon-our-values.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/builtup/images/icon-our-vision.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\icon-our-vision.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/builtup/images/icon-phone.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\icon-phone.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/builtup/images/icon-project-info-1.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\icon-project-info-1.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/builtup/images/icon-project-info-2.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\icon-project-info-2.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/builtup/images/icon-project-info-3.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\icon-project-info-3.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/builtup/images/icon-project-info-4.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\icon-project-info-4.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/builtup/images/icon-project-info-5.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\icon-project-info-5.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/builtup/images/icon-service-benefit-1.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\icon-service-benefit-1.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/builtup/images/icon-service-benefit-2.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\icon-service-benefit-2.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/builtup/images/icon-service-benefit-3.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\icon-service-benefit-3.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/builtup/images/icon-white-mail.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\icon-white-mail.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/builtup/images/icon-white-phone.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\icon-white-phone.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/builtup/images/icon-why-choose-1.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\icon-why-choose-1.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/builtup/images/icon-why-choose-2.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\icon-why-choose-2.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/builtup/images/icon-why-choose-3.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\icon-why-choose-3.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/builtup/images/loader.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\loader.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/builtup/images/logo.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/builtup/images/long-arrow.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\long-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/builtup/images/our-faqs-bg.png
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\our-faqs-bg.png
+Content Type: image/png
+
+Uri: https://html.awaikenthemes.com/builtup/images/our-faqs-img-1.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\our-faqs-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/builtup/images/our-faqs-img-2.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\our-faqs-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/builtup/images/our-faqs-img-3.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\our-faqs-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/builtup/images/our-faqs-img-4.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\our-faqs-img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/builtup/images/our-project-1.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\our-project-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/builtup/images/our-project-2.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\our-project-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/builtup/images/our-project-3.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\our-project-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/builtup/images/our-project-4.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\our-project-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/builtup/images/our-project-5.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\our-project-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/builtup/images/our-project-6.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\our-project-6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/builtup/images/our-projects-bg.png
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\our-projects-bg.png
+Content Type: image/png
+
+Uri: https://html.awaikenthemes.com/builtup/images/our-service-bg.png
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\our-service-bg.png
+Content Type: image/png
+
+Uri: https://html.awaikenthemes.com/builtup/images/page-header-bg.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\page-header-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/builtup/images/post-1.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\post-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/builtup/images/post-2.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\post-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/builtup/images/post-3.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\post-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/builtup/images/post-4.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\post-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/builtup/images/post-5.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\post-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/builtup/images/post-6.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\post-6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/builtup/images/project-gallery-1.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\project-gallery-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/builtup/images/project-gallery-2.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\project-gallery-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/builtup/images/project-gallery-3.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\project-gallery-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/builtup/images/project-gallery-4.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\project-gallery-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/builtup/images/readmore-arrow.svg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\readmore-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://html.awaikenthemes.com/builtup/images/service-benefit-bg.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\service-benefit-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/builtup/images/service-img-1.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\service-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/builtup/images/service-img-2.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\service-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/builtup/images/service-img-3.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\service-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/builtup/images/service-img-4.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\service-img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/builtup/images/service-img-5.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\service-img-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/builtup/images/service-img-6.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\service-img-6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/builtup/images/service-sidebar-cta-bg.png
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\service-sidebar-cta-bg.png
+Content Type: image/png
+
+Uri: https://html.awaikenthemes.com/builtup/images/service-suitabilities-img-1.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\service-suitabilities-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/builtup/images/service-suitabilities-img-2.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\service-suitabilities-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/builtup/images/team-1.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\team-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/builtup/images/team-2.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\team-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/builtup/images/team-3.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\team-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/builtup/images/team-4.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\team-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/builtup/images/team-5.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\team-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/builtup/images/team-6.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\team-6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/builtup/images/video-bg.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\video-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/builtup/images/why-choose-img-1.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\why-choose-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/builtup/images/why-choose-img-2.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\why-choose-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/builtup/images/why-choose-img-3.jpg
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\images\why-choose-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.awaikenthemes.com/builtup/index-2.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\index-2.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/builtup/index-3.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\index-3.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/builtup/index.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\index.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/builtup/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/builtup/js/function.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\js\function.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/builtup/js/gsap.min.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\js\gsap.min.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/builtup/js/jquery-3.7.1.min.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\js\jquery-3.7.1.min.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/builtup/js/jquery.counterup.min.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\js\jquery.counterup.min.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/builtup/js/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/builtup/js/jquery.slicknav.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\js\jquery.slicknav.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/builtup/js/jquery.waypoints.min.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\js\jquery.waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/builtup/js/magiccursor.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\js\magiccursor.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/builtup/js/parallaxie.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\js\parallaxie.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/builtup/js/ScrollTrigger.min.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\js\ScrollTrigger.min.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/builtup/js/SmoothScroll.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\js\SmoothScroll.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/builtup/js/SplitText.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\js\SplitText.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/builtup/js/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\js\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/builtup/js/validator.min.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\js\validator.min.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/builtup/js/wow.js
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\js\wow.js
+Content Type: application/javascript
+
+Uri: https://html.awaikenthemes.com/builtup/project-single.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\project-single.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/builtup/project.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\project.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/builtup/service-single.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\service-single.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/builtup/service.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\service.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/builtup/team.html
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\team.html
+Content Type: text/html
+
+Uri: https://html.awaikenthemes.com/builtup/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\webfonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://html.awaikenthemes.com/builtup/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://html.awaikenthemes.com/builtup/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\webfonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://html.awaikenthemes.com/builtup/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://html.awaikenthemes.com/builtup/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://html.awaikenthemes.com/builtup/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://html.awaikenthemes.com/builtup/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\webfonts\fa-v4compatibility.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://html.awaikenthemes.com/builtup/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\html.awaikenthemes.com\builtup\webfonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
